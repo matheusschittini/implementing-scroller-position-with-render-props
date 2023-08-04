@@ -3,8 +3,6 @@ You've learned about render props and how it's a viable alternative to Higher Or
 In a previous video, you saw a possible implementation of a mouse position tracker using Higher Order Components.
 In this exercise, you'll implement the same specifications but using a render prop component instead.
 
-**Note:** Before you begin, make sure you understand how to work with the Coursera Code Lab for the [Advanced React course](https://www.coursera.org/learn/advanced-react/supplement/htaLX/working-with-labs-in-this-course).
-
 ## Steps
 
 ### **Step 1**
