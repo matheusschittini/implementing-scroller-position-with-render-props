@@ -1,6 +1,3 @@
-# Instructions
-
-## Task
 
 You've learned about render props and how it's a viable alternative to Higher Order Components to encapsulate cross-cutting concerns.
 In a previous video, you saw a possible implementation of a mouse position tracker using Higher Order Components.
